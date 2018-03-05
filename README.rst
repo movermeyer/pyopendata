@@ -1,7 +1,7 @@
 pyopendata
 ==========
 
-.. image:: https://pypip.in/version/pyopendata/badge.svg
+.. image:: https://img.shields.io/pypi/v/pyopendata.svg
     :target: https://pypi.python.org/pypi/pyopendata/
     :alt: Latest Version
 
